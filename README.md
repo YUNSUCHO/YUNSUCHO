@@ -7,7 +7,7 @@
 <a align="center" href="https://www.linkedin.com/in/yunsu-c-a387b2176/" target="blank">
   <img class ="center" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhishek" width="40px" />
 </a>
-<a align="center" href="https://www.researchgate.net/profile/Abhishek_Buragohain" target="blank">
+<a align="center" href="https://www.researchgate.net/profile/Yunsu_Cho" target="blank">
   <img class= "center" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/researchgate.svg" alt="abhishek" width="40px" />
 </a>
 <br />
