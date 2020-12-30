@@ -1,10 +1,10 @@
-<h2 align="center">Hi 👋, I'm Abhishek</h2>
+<h2 align="center">Hi 👋, I'm YUNSUCHO</h2>
 <h3 align="center">A Msc.graduate , and a AI enthusiast! </h3>
 <br />
 
 ### Connect with me on...
 
-<a align="center" href="https://www.linkedin.com/in/abhishek-buragohain-28b8498a/" target="blank">
+<a align="center" href="https://www.linkedin.com/in/yunsu-c-a387b2176/" target="blank">
   <img class ="center" align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhishek" width="40px" />
 </a>
 <a align="center" href="https://www.researchgate.net/profile/Abhishek_Buragohain" target="blank">
