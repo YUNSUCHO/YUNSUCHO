@@ -15,7 +15,7 @@
 ### I am...
 * 🎓 A MSc graduate worked  in the field of `machine learning`& `deep learning`, and `software develoment` 
 * 🔭 Currently exploring various topics in the field of machine learning.
-* 👨‍💻 Has been a software developer after my bachelors, a graduate reseach assistant during my Msc. 
+* 👨‍💻 a graduate reseach assistant during my Msc. 
 * 📚 Longlife learner 
 * 📄 Let me known if you find anything interesting in my repos. 
 
