@@ -30,7 +30,6 @@
 <img align="left" src="https://simpleicons.org/icons/keras.svg" alt="keras" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/linux.svg" alt="linux" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/mysql.svg" alt="JetBrains Tools" height="40px" />
 <br />
