@@ -13,7 +13,7 @@
 <br />
 
 ### I am...
-* 🎓 A MSc graduate worked  in the field of `machine learning`& `deep learning`, and `software develoment` 
+* 🎓 A MSc graduate worked  in the field of `machine learning`& `deep learning`, and `software development` 
 * 🔭 Currently exploring various topics in the field of machine learning.
 * 👨‍💻 a graduate reseach assistant during my Msc. 
 * 📚 Longlife learner 
@@ -28,7 +28,7 @@
 <img align="left" src="https://simpleicons.org/icons/pytorch.svg" alt="pytorch" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/tensorflow.svg" alt="Tensorflow" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/keras.svg" alt="keras" height="40px" />
-<img align="left" src="https://simpleicons.org/icons/visualstudiocode.svg" alt="VSCode" height="40px" />
+<img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Visual Studio Code" height="40" />
 <img align="left" src="https://simpleicons.org/icons/jetbrains.svg" alt="JetBrains Tools" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/linux.svg" alt="linux" height="40px" />
 <img align="left" src="https://simpleicons.org/icons/mysql.svg" alt="JetBrains Tools" height="40px" />
